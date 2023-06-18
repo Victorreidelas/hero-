@@ -1,0 +1,59 @@
+:root {
+    --branco-principal: #FFFFFF;
+    --cor-de-fundo: #00030C;
+    --botao-azul: #167BF7;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.container {
+   display: flex;
+   flex-direction: row;
+}
+    
+.image1{
+   width: 85%;
+   margin-left: 20%;
+   height: 80%;
+}
+
+.imagebotao{
+   width: 85%;
+   margin-left: 10%;
+}
+
+.image2{
+   float: right;
+   width: 75%;
+   height: 454px;
+}
+
+.image3 {
+   float: right;
+   margin-left: 10px;
+   width: 80%;
+}
+
+.image4 {
+   margin: 30px;
+}
+
+.image5{
+   width: 100%;
+}
+
+.image7{
+   float: right;
+}
+
+.image8{
+  margin: auto;
+  width: 10%;
+}
+
+.image10{
+   float: right;
+}
+
